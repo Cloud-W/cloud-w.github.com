@@ -6,18 +6,18 @@
 # --- Required options --- #
 
 # Name of website
-title: Avalon
+title: 皮蛋工作室
 
 # Your name to show in the footer
-author: Some Person
+author: Cloud
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  #Resources:
+  #  - Beautiful Jekyll: "https://beautifuljekyll.com"
+  #  - Learn markdown: "https://www.markdowntutorial.com/"
   #Author's home: "https://deanattali.com"
 
 # --- Logo --- #
@@ -39,10 +39,10 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "cloudgaruda@gmail.com"
+  email: "pidanworkshop@gmail.com"
   #facebook: deanattali
   github: Cloud-W
-  twitter: CloudGaruda
+#  twitter: CloudGaruda
 #  patreon: DeanAttali
 #  youtube: c/daattali
 #  medium: yourname
@@ -54,7 +54,7 @@ social-network-links:
 #  instagram: deanat78
 #  spotify: yourname
 #  telephone: +14159998888
-  steam: cloudgaruda
+  steam: 76561198174656102
 #  twitch: yourname
 #  yelp: yourname
 #  telegram: yourname
@@ -218,6 +218,7 @@ defaults:
     values:
       layout: "page"
 
+
 # Exclude these files from production site
 exclude:
   - CHANGELOG.md
@@ -232,6 +233,8 @@ exclude:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189

@@ -1,16 +1,18 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Game developing, programing and so on
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+This is Cloud, a newbie indie game developer.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+## In the past
 
-What else do you need?
+- I've been using Unity to create stupid mobile games (or let's say, **ads display apps**).
+- I wished I could make **real** games, but was too exhausted to start.
 
-### My story
+## And now
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+- I'm making desktop games with Godot Engine.
+- I'm tying to share my learning experience of using Godot.
+- I'm learning pixel painting with Aseprite.
